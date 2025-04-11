@@ -1,8 +1,7 @@
 # SEK5075 | Build Together, Grow Together  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;We+are+SEC
-    K5075;Innovators.+Builders.+Community." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;We+are+SEK5075;Innovators.+Builders.+Community." />
 </div>
 
 ### **🎯 What We Do**  
